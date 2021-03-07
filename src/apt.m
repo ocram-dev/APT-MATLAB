@@ -2,6 +2,9 @@
 % Script to demodulate Automatic Picture Transmission (APT) satellite signals
 % Input: .wav 
 % Ouput: .png
+% REFS:
+% https://noaa-apt.mbernardi.com.ar/
+% https://github.com/martinber/noaa-apt
 %===========================================================================================
 
 tic
